@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @karmaSudi
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning C#, Python (FastApi). I am currently working on a personal project with Python(w/OCR)+MongoDB+JS stack
 - 😄 Pronouns: she/her
 
 <!---
